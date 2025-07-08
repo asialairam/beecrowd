@@ -1,3 +1,7 @@
-select products.id, products.name from products
-join categories on products.id_categories = categories.id
-and categories.name like 'super%';
+package br.laisa.beecrowd.iniciante;
+
+public class Problema1013 {
+    public static void main(String[] args) {
+
+    }
+}
